@@ -3,9 +3,9 @@
 
 # Project Images
 
- - `Appbar and Body layout`
+ - Appbar and Body layout
  ![](1.jpg)
- - `Bottom Appbar and Body layout`
+ - Bottom Appbar and Body layout
  ![](2.jpg)
- - `Body layout`
+ - Body layout
  ![](3.jpg)
