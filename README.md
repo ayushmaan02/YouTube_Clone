@@ -1,11 +1,12 @@
 # YouTube_Clone
  ## A basic UI clone of the most popular platform YouTube build by Flutter and Dart.
 
+ *A basic addition of the Home page and the Treanding page*
+
+ **Further updates will be added soon!!**
+
 # Project Images
 
- - Appbar and Body layout
- ![](1.png)
- - Bottom Appbar and Body layout
- ![](2.png)
- - Body layout
- ![](3.png)
+![](1.jpg)
+### Demo GIF
+![](YT_Clone.gif)
