@@ -2,7 +2,7 @@
     package="com.example.youtube_clone">
    <application
         android:label="youtube_clone"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

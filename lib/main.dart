@@ -9,6 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      title: "Youtube_Clone",
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark().copyWith(
         accentColor: Colors.white,
