@@ -17,4 +17,16 @@ class _TreandingPageState extends State<TreandingPage> {
 AppBar treanding = AppBar(
   backgroundColor: Colors.black,
   title: Text("Treanding"),
+  actions: [
+    Padding(
+      padding: EdgeInsets.only(right: 20.0),
+      child: Icon(Icons.cast),
+    ),
+    Padding(
+      padding: EdgeInsets.only(right: 20.0),
+      child: Icon(
+        Icons.search,
+      ),
+    ),
+  ],
 );
