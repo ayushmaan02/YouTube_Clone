@@ -7,6 +7,6 @@
 
 # Project Images
 
-![](1.jpg)
+![](1.png)
 ### Demo GIF
 ![](YT_Clone.gif)
